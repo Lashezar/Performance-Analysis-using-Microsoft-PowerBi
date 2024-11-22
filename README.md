@@ -1,6 +1,10 @@
 # Performance-Analysis-using-Microsoft-PowerBi
 
 ---
+
+
+![Workforce Demography Dashboard](https://drive.google.com/uc?id=1Hoqa0z5r1z0FMcpZsNe9d_CpggkZbz2G)
+
 ### Analysis of Workforce Demography Dashboard
 
 The **Workforce Demography Dashboard** presents an overview of employee distribution, salary allocation, and tenure statistics across countries and departments within the organization. The visualization is highly insightful, combining key metrics and graphical representations to provide actionable insights. Below is a detailed breakdown:
