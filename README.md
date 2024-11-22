@@ -80,5 +80,5 @@ The **Workforce Demography Dashboard** presents an overview of employee distribu
 
 ---
 
-### Final Thoughts:
+
 This dashboard provides a solid snapshot of the organization’s workforce demographics and salary distribution. However, addressing data gaps and aligning salary allocations more strategically could enhance operational efficiency and business outcomes. It is vital to keep refining both the data inputs and visualizations for sustained insights.
